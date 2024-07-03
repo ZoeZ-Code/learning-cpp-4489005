@@ -5,6 +5,40 @@
 #include <iostream>
 #include <typeinfo>
 
+/*
+` - Backtick or Grave Accent
+! - Exclamation Mark or Bang
+@ - At Sign or At
+# - Hash, Pound Sign, Number Sign, or Octothorpe
+$ - Dollar Sign
+% - Percent Sign
+^ - Caret or Circumflex
+& - Ampersand
+* - Asterisk or Star
+( - Left Parenthesis or Open Parenthesis
+) - Right Parenthesis or Close Parenthesis
+- - Hyphen or Minus
+_ - Underscore
+= - Equals Sign
++ - Plus Sign
+[ - Left Square Bracket or Open Square Bracket
+] - Right Square Bracket or Close Square Bracket
+{ - Left Curly Brace or Open Curly Brace
+} - Right Curly Brace or Close Curly Brace
+\ - Backslash
+| - Vertical Bar or Pipe
+; - Semicolon
+: - Colon
+' - Single Quote or Apostrophe
+" - Double Quote
+, - Comma
+< - Less Than or Left Angle Bracket
+. - Period or Dot
+> - Greater Than or Right Angle Bracket
+/ - Forward Slash or Slash
+? - Question Mark
+*/
+
 int main(){
     auto a = 8;
     auto b = 12345678901;
